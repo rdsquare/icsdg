@@ -1,0 +1,468 @@
+﻿/*------------------------------------*\
+	RESET
+\*------------------------------------*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{
+	margin:0;
+	padding:0;
+}
+table{
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset,img{
+	border:0;
+}
+address,caption,cite,code,dfn,th,var{
+	font-style:normal;
+	font-weight:normal;
+}
+caption,th{
+	text-align:left;
+}
+h1,h2,h3,h4,h5,h6{
+	font-size:100%;
+	font-weight:normal;
+}
+q:before,q:after{
+	content:'';
+}
+abbr,acronym{
+	border:0;
+}
+
+
+/* IC3 CSS File */
+
+
+body {
+	margin:0;
+	padding:0;
+	line-height: 1.5em;
+	font-family: Verdana, Arial, Helvetica, Agency FB, sans-serif;
+	font-size: 13px;
+	background: #CCCCCC;
+}
+
+a:link { color: #0066CC; text-decoration: none} 
+a:visited { color: #0066CC; text-decoration: none} 
+a:active { color: #008000; text-decoration: underline} 
+a:hover { color: #008000; text-decoration: underline}
+
+#ic3_container {
+	width: auto;
+	height: auto;
+	margin: auto;
+	background: #FFFFFF;
+	#border: 0.25px solid #006699;
+}
+
+#ic3_header {
+	clear: left;
+	height: 150px;
+	width: 100%;
+	background: url(images/banner_900_140.webp) no-repeat center;
+	background-size: 100%;
+}
+
+#ic3_content {
+	width: 100%;
+	min-height: 900px;
+}
+
+#ic3_left_column {
+	background: #FFFFFF;
+	float: left;
+	width: 225px;
+	min-height: 30%;
+}
+
+#ic3_narrow_left_column {
+	background: #FFFFFF;
+	float: left;
+	width: 115px;
+	min-height: 30%;
+}
+
+#ic3_middle_column {
+	float: left;
+	width: 450px;	
+}
+
+#ic3_long_middle_column {
+	float: left;
+	width: auto;
+
+}
+
+#ic3_right_column {
+	background: #FFFFFF;
+	float: left;
+	width: 225px;
+	min-height: 30%;
+}
+
+#ic3_narrow_right_column {
+	background: #FFFFFF;
+	float: right;
+	width: 115px;
+	min-height: 30%;
+}
+
+
+#ic3_footer {
+	clear: left;
+	background: #0066CC;
+	padding: 5px;
+	color: #FFFFFF;
+}
+
+#ic3_footer a {
+	color: #FFFFFF;
+}
+
+.ic3_line {
+	clear: left;
+	height: 4px;
+	background: #000000;
+}
+
+.ic3_pic {
+	float: right;
+	margin-left: 10px; 
+	border: 1px solid #000000;
+}
+
+.section_box {
+	margin: 3px;
+	padding: 5px;
+	background: rgba(0,0,0,0.75);
+	color: #006699;
+}
+
+.section_box4 {
+	margin: 10px;
+	padding: 10px;
+	background: #D9EEFF;
+	color: #006699;
+}
+
+.no_box {
+	margin: 10px;
+	padding: 10px;
+
+}
+
+.section_box a {
+	color: #FFFF99;
+}
+
+.section_box a:hover {
+	color: #99FFFF;
+}
+
+.section_box2 {
+	margin-top: 10px;
+	padding: 10px;
+	border: 1px dashed #0066AA;
+	background: #D9EEFF;
+	color: #006699;
+}
+
+.section_box3 {
+	margin: 10px;
+	padding: 10px;
+	border: 1px dashed #0066AA;
+	background: #D9EEFF;
+	color: #006699;
+}
+
+.text_area {
+	margin: 10px;
+}
+
+.text_area_bold {
+	margin: 10px;
+	font-weight: bold;
+}
+
+.title {
+	
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #008800;
+}
+
+.subtitle {
+	padding-top:10px;
+	padding-bottom: 10px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #A3080D;
+	background: #D9EEFF;
+}
+
+/* Menu CSS for IC3 */
+
+#ic3_menu {	
+	width: 100%;
+	height: 35px;	
+	background: #0066CC;
+}
+
+#menu-bar {
+  width: 99%;
+  margin: 0px 0px 0px 0px;
+  padding: 1px 1px 1px 1px;
+  height: auto;
+  line-height: 100%;
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  box-shadow: 0px 0px 0px #666666;
+  -webkit-box-shadow: 0px 0px 0px #666666;
+  -moz-box-shadow: 0px 0px 0px #666666;
+  background: #0066CC;
+  border: solid 1px #6D6D6D;
+  position:relative;
+  z-index:999;
+}
+#menu-bar li {
+  margin: 0px 0px 6px 0px;
+  padding: 0px 1px 0px 6px;
+  float: left;
+  position: relative;
+  list-style: none;
+}
+#menu-bar a {
+  font-weight: bold;
+  font-family: Verdana, Arial, Helvetica, Agency FB, sans-serif;
+  font-style: normal;
+  font-size: 11px;
+  color: #E7E5E5;
+  text-decoration: none;
+  display: block;
+  padding: 6px 20px 6px 20px;
+  margin: 0;
+  margin-bottom: 6px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  text-shadow: 2px 2px 3px #000000;
+}
+ 
+#menu-bar li ul li a {
+  margin: 0;
+}
+#menu-bar .active a, #menu-bar li:hover > a {
+ color: white; 
+ font-size:13px;
+}
+
+#menu-bar ul li:hover a, #menu-bar li:hover li a {
+  background: none;
+  border: none;
+  color: #666;
+  -box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+}
+#menu-bar ul a:hover {
+  background: #0066CC !important;
+  color: #FFFFFF !important;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  text-shadow: 0px 0px 0px #FFFFFF;
+}
+#menu-bar li:hover > ul {
+  display: block;
+}
+#menu-bar ul {
+  background: #0066CC;
+  display: none;
+  margin: 0;
+  padding: 0;
+  width: 185px;
+  position: absolute;
+  top: 30px;
+  left: 0;
+  border: solid 1px #B4B4B4;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-box-shadow: 0px 0px 0px #222222;
+  -moz-box-shadow: 0px 0px 0px #222222;
+  box-shadow: 0px 0px 0px #222222;
+}
+#menu-bar ul li {
+  float: none;
+  margin: 0;
+  padding: 0;
+}
+#menu-bar ul a {
+  padding:10px 0px 10px 15px;
+  color:#FFFFFF !important;
+  font-size:12px;
+  font-style:normal;
+  font-family: Verdana, Arial, Helvetica, Agency FB, sans-serif;
+   font-weight: bold;
+  text-shadow: 0px 0px 0px #FFFFFF;
+}
+#menu-bar ul li:first-child > a {
+  border-top-left-radius: 10px;
+  -webkit-border-top-left-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  border-top-right-radius: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-topright: 10px;
+}
+#menu-bar ul li:last-child > a {
+  border-bottom-left-radius: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  border-bottom-right-radius: 10px;
+  -webkit-border-bottom-right-radius: 10px;
+  -moz-border-radius-bottomright: 10px;
+}
+#menu-bar:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+#menu-bar {
+  display: inline-block;
+}
+  html[xmlns] #menu-bar {
+  display: block;
+}
+* html #menu-bar {
+  height: 1%;
+}
+
+
+/* Slide Show */
+
+.ic3_slideshow {	
+	max-width:450px;
+	max-height:300px;	 
+	padding: 10px 5px;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width:100%;
+  max-height:100%;	 
+  padding: 10px 5px;
+  position: relative;
+  margin: auto;
+}
+
+.tour-slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color:  #000000;
+  background: white;
+  font-weight: bold;
+  font-size: 12px;
+  width: 100%;  
+  position: absolute;
+  bottom: 10px;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 8px;
+  width: 8px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+
+/* Auto Styles */
+
+.auto-style1 {
+	margin-right: 173px;
+}
+.auto-style2 {
+	width: 70%;
+	position: left;
+	margin: auto auto auto 0px;
+	background-color: #0066CC;
+}
+
+
+
+/* Collapsable content */
+
+.collapsible {
+    background-color: white;
+    color: #006699;
+    cursor: pointer;
+    padding: 14px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+   	font-weight:bold;
+ 
+}
+
+.c_active, .collapsible:hover {
+    background-color: #D9EEFF;
+}
+
+.content {
+    padding: 0 16px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
