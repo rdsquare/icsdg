@@ -15,43 +15,57 @@
 <h2 style="padding-top: 10px; padding-bottom: 10px; background: rgba(0,0,0,0.8); color: white"><u>Paper Submission Guidelines</u></h2>
 
 <p class="w3-justify" style="padding-left: 5px; padding-right: 5px">
- All final submissions to the conference should be written in English with a maximum paper length of 6 printed pages including figures without incurring any additional page charges. However, the authors can extend maximum 1 page with over length page charge, if accepted. Note that, the maximum number of pages for a research paper is 7. Papers exceeding the total page limitation will not be accepted by our submission portal.
-Final manuscript preparation should abide the following guidelines: <br /><br />
-			 <ol align="justify"  style="list-style-position: inside; padding-left: 5px; padding-right: 5px">
-			 <li> Submit your manuscript either in PDF or in Microsoft Word format. Use the most current version of Microsoft Word which will help in reducing word-to-pdf conversion issues such as embedded fonts, bookmarks, etc.. </li>
-			 <li> Submissions should strictly follow the recommended IEEE conference template. </li>
-			 <li> All references must follow the IEEE format of referencing.</li>
-			 <li> Papers are reviewed on the basis that they do not contain any plagiarized material and have not been submitted to any other conference at the same time (multiple submission).</li>
-			 <li> Authors whose name is in the IEEE Prohibited Author List (PAL), are requested not to submit their papers in this conference.</li>
-			 </ol><br />
+Prepare manuscripts in Microsoft Word (12-pointTimes New Roman font, double spacing, 1” margins on all sides). Follow formatting and reference style strictly as stated in the APA style manual (6th Ed.). Authors should include figures and tables within the text where they are intended to appear. All submissions are required to include the following information on a separate cover page: title of paper, name(s) of author(s) in intended order of authorship, organizational affiliation(s), position(s), e-mail addresses, telephone number for the lead author, proposed track, submission category, and number of words. Based on the reviews, the editors reserve the right to reclassify manuscripts to a different category or track. <br /><br />
+ The official language for this international conference is English. A maximum of 3 proposals will be accepted for each lead author. Submissions are to be made to one or more of the following categories with an abstract of more than 250 words:  <br /><br />
+
 </p>
 </div>
 <div class="w3-card w3-round w3-white w3-justify" style="margin-top: 15px; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px">
-	
-			 <span class="auto-style3">Papers upload via <a href="https://edas.info/newPaper.php?c=25401" target="_blank"><b>EDAS</b></a>:</span><br/>
-			 Authors are instructed to submit their paper via <a href="https://edas.info/newPaper.php?c=25401" target="_blank"><b>EDAS</b></a> submission system. 
-			 It is the authors' responsibility to ensure that the author list and the paper title of the submitted pdf/doc/docx file is an exact match to the author list and paper title on the EDAS registration page. 
-			 In particular, the <a href="https://edas.info/newPaper.php?c=25401" target="_blank"><b>EDAS</b></a> registration page must include all co-authors, not just the submitting author. 
-			 Please be aware that the author list of an accepted paper can NOT be changed in the final manuscript.<br/><br/>
+<h2 style="padding-top: 10px; padding-bottom: 10px; background: rgba(0,0,0,0.8); color: white"><u>Refereed Papers (Full Manuscripts)</u></h2>
+
+<p class="w3-justify" style="padding-left: 5px; padding-right: 5px">
+ Papers should be about but no more than 6,000 words in length (all-inclusive, including tables and references). Accepted papers will be published in the proceedings / Refereed indexed journals unless authors request otherwise.  <br />
+
+</p>
 
 </div>
+<div class="w3-card w3-round w3-white w3-justify" style="margin-top: 15px; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px">		 
+<h2 style="padding-top: 10px; padding-bottom: 10px; background: rgba(0,0,0,0.8); color: white"><u>Work-in-Progress (WIP) Papers</u></h2>
+
+<p class="w3-justify" style="padding-left: 5px; padding-right: 5px">
+ Extended summary of proposal/paper of about but no more than 3,000 words, to include paper’s significance, theoretical base, research purpose, research question/s, and methodology/methods.   <br />
+
+</p>
+ </div>
+<div class="w3-card w3-round w3-white w3-justify" style="margin-top: 15px; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px">		 
+<h2 style="padding-top: 10px; padding-bottom: 10px; background: rgba(0,0,0,0.8); color: white"><u>Practice-based Papers</u></h2>
+
+<p class="w3-justify" style="padding-left: 5px; padding-right: 5px">
+Interested professionals and institutions (research institutes, companies, consulting agencies, government agencies, NGOs, and so on) may propose in this category to demonstrate good sustainable practices. Submit a proposal within but close to 3,000 words. Proposals should have significant learning potential, must be based on sound theory and research, and should not be for publicity or commercial benefit.  <br />
+
+</p>
+ </div>
+<div class="w3-card w3-round w3-white w3-justify" style="margin-top: 15px; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px">		 
+<h2 style="padding-top: 10px; padding-bottom: 10px; background: rgba(0,0,0,0.8); color: white"><u>Posters</u></h2>
+
+<p class="w3-justify" style="padding-left: 5px; padding-right: 5px">
+Posters offer the opportunity to present data and have substantive discussions with interested colleagues. There will be a designated time for a synchronous poster session in which authors present their posters and exchange ideas with colleagues.  <br />
+
+</p>
+ </div>
 <div class="w3-card w3-round w3-white w3-justify" style="margin-top: 15px; padding-top: 10px; padding-bottom: 70px; padding-left: 5px; padding-right: 5px">		 
-			 <u>Paper Templates</u><br/>
-			  MS Word or LaTex template should be used for preparing the 
-			 conference paper. Authors are requested not to modify the given template while formatting their camera-ready submission. 
-			  Each submission will be analyzed and if any formatting error is found, it may be sent to the authors for proper re-formatting. <br/><br/>
-			  
-			 <u> MS Word Template</u> <br/>
- 			 <a href="files/ieee_template.doc">CLICK HERE</a> to download MS Word Template 
-			 <br />
-			 <br />		  
-			 <u> LaTex Template</u> <br/>
- 			 <a href="https://www.ieee.org/conferences/publishing/templates.html">CLICK HERE</a> to download 
-			 LaTex Template<br/></br/>
+<h2 style="padding-top: 10px; padding-bottom: 10px; background: rgba(0,0,0,0.8); color: white"><u>Review Process</u></h2>
 
-		     Any issues with the paper submission, email to <strong><u>ankit.vidyarthi@jiit.ac.in</u></strong>
+<p class="w3-justify" style="padding-left: 5px; padding-right: 5px">
+At least two reviewers will review each submission under a double-blind peer-review process. All submissions will be reviewed based on the following criteria: <br /><br/>
+1. Significance/contribution to the sustainability theme <br /><br />
+2. Clear aim and purpose <br /><br />
+3. Theoretical foundations <br /><br />
+4. Appropriate methodology and methods <br /><br />
+5. Conclusions/likely conclusions based on results or anticipated results<br /><br/>
+6. Quality of writing and formatting (APA 6th ed.); proposals submitted without proper formatting will be returned for correct formatting <br />
 
-
+</p>
  </div>
 </div>
 

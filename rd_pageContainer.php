@@ -77,12 +77,16 @@
 <div class="slideshow-container">
 
 		<div class="mySlides">		  
-		  <img src="images/1.webp" style="width:100%">
+		  <img src="images/1.jpg" style="width:100%">
+		  <div class="text">International Conference on SDG, JKLU</div>
+		</div>
+		<div class="mySlides">		  
+		  <img src="images/2.webp" style="width:100%">
 		  <div class="text">International Conference on SDG, JKLU</div>
 		</div>
 		
 		<div class="mySlides">		 
-		  <img src="images/2.webp" style="width:100%">
+		  <img src="images/3.webp" style="width:100%">
 		  <div class="text">International Conference on SDG, JKLU</div>
 		</div>
 		
@@ -179,7 +183,7 @@ The United Nations 2030 agenda of 17 (SDG) Sustainable Development Goals is a bo
           
 <p class="w3-center" style="padding-top:5px; padding-bottom: 5px; background: rgba(0,0,0,0.2)"><font color="red" size="5px"><u>Important Dates</u></font></p>
 	           <span class="auto-style3">Conference Date</span> <br />
-  	           in 2020... <br /><br />
+  	            7-8<sup>th</sup> February, 2020 <br /><br />
 		   <span class="auto-style3">Abstract Submission begins</span> <br />
   	           25<sup>th</sup> May, 2019 <br /><br />
   	           <span class="auto-style3">Full Paper Submission</span> <br />
